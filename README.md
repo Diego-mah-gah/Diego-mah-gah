@@ -9,8 +9,7 @@
 
 <div style="display: inline-block"><br/>
 <img alt="html-5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-</div> 
-<div style="display: inline-block"><br/>
+</div> <div style="display: inline-block"><br/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div> 
 
